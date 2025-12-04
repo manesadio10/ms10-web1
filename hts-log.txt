@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Dec 2025 20:59:17 at https://moneysadio.com.free +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://moneysadio.com.free -O1 "M:\Downloads\ms10" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:00:55	Error: 	"Created" (201) at link https://moneysadio.com.free/manifest.json?theme_color=%23000000 (from https://moneysadio.com.free/)
+21:01:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://moneysadio.com.free/contact (from https://moneysadio.com.free/)
+21:01:21	Error: 	"Not Found" (404) at link https://moneysadio.com.free/updates/listhttps://moneysadio.com.free/update/slot-is-stubborn-and-ruining-liverpool-fast/3372477 (from https://moneysadio.com.free/)
+21:02:42	Error: 	"Not Found" (404) at link https://moneysadio.com.free/cdn-cgi/l/email-protection (from https://moneysadio.com.free/)
+21:07:09	Warning: 	Retry after error 500 () at link https://moneysadio.com.free/contact (from https://moneysadio.com.free/)
+21:07:55	Error: 	"" (500) after 2 retries at link https://moneysadio.com.free/contact (from https://moneysadio.com.free/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 7 seconds : 355 links scanned, 348 files written (101297053 bytes overall) [92131001 bytes received at 168429 bytes/sec], 13456887 bytes transferred using HTTP compression in 249 files, ratio 24%, 3.8 requests per connection
+(4 errors, 2 warnings, 0 messages)
